@@ -9,7 +9,7 @@ setup(
     author_email='thisisfumba@gmail.com',
     license='BSD 2-clause',
     packages=['dhis2py'],
-    install_requires=['requests 2.32.4'                     
+    install_requires=['requests 2.32.4',                     
                       ],
 
     classifiers=[
